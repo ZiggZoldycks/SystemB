@@ -1,7 +1,7 @@
 
 # SystemB
 
-### Olá, me chamo João Victor e este é meu primeiro projeto, um simples sistema bancário, com funcionalidades básicas.
+### Olá, me chamo João Victor e este é meu primeiro projeto, um simples sistema bancário com funcionalidades básicas.
 
 ## Funcionalidades
 
